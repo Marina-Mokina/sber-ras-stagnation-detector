@@ -1,0 +1,1 @@
+# sber-ras-stagnation-detector
