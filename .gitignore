@@ -1,0 +1,8 @@
+__pycache__/
+*.xlsx
+*.csv
+data/
+reports/
+venv/
+.env
+.idea/
